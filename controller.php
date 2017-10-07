@@ -6,4 +6,6 @@
  * Time: 16.25
  */
 
-print_r("This is controller");
+$control = "Controller";
+
+print_r("This is a $control");
