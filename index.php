@@ -6,4 +6,6 @@
  * Time: 16.18
  */
 
-print_r("Successfully created Service Controller");
+print_r("Successfully created Service Controller.\n");
+
+include 'controller.php';
