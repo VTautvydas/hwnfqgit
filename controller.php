@@ -6,6 +6,7 @@
  * Time: 16.25
  */
 
-$version = "v_3";
+$version = "v_1";
+$service = "Service";
 
-print_r("This is a Controller $version");
+print_r("This is a $service Controller $version");
