@@ -6,4 +6,6 @@
  * Time: 16.25
  */
 
-print_r("This is controller");
+$version = "v_3";
+
+print_r("This is a Controller $version");
