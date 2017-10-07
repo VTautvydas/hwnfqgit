@@ -6,6 +6,7 @@
  * Time: 16.25
  */
 
+$version = "v_2";
 $control = "Controller";
 
-print_r("This is a $control");
+print_r("This is a $control $version");
